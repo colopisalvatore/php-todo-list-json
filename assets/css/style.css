@@ -1,0 +1,11 @@
+/** COMMON **/
+
+body{
+    background-color: #fff;
+    color: #000;
+}
+
+#todo-list .todo.done{
+    color: #000;
+    text-decoration: line-through;
+}
